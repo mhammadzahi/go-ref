@@ -6,7 +6,7 @@ import (
 
 var x string = "hello"
 
-func main() {
+func main_sco() {
 	fmt.Println(f())
 }
 
